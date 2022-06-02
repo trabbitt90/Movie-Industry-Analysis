@@ -33,21 +33,21 @@ After importing the data I began to remove unwanted values such as NaN or entrie
 
 ## Results:
 
-![image-18.png](attachment:image-18.png)
+![download](https://user-images.githubusercontent.com/100429663/171656274-a62626d1-6da2-487b-a535-423807bc43b6.png)
 
 The month with the highest return on investment is July, followed closely by November and June.
 
-![image-16.png](attachment:image-16.png)
+![download (1)](https://user-images.githubusercontent.com/100429663/171656340-5f77de81-d5bb-47b8-b4e0-d4b757ef69c4.png)
 
 Musical genre had the highest return on investment, followed by Animation.
 
 To further explore these variables, I wanted to see if a given genre found more success (higher return on investment) if the film was released in a certain month of the year.
 
-![image-17.png](attachment:image-17.png)
+![download (2)](https://user-images.githubusercontent.com/100429663/171656394-a33a80be-6b45-4caa-b75d-1414ffcfd955.png)
 
 February Musicals, and January Sport films dominated return on investment.
 
-![image-15.png](attachment:image-15.png)
+![download (3)](https://user-images.githubusercontent.com/100429663/171656450-cf7d0fd9-4ef9-4ff8-b238-d915dd8c2633.png)
 
 Anya Taylor-Joy, Octavia Spencer, and Judi Dench have a track record of starring in films that produce high ROI. Addtionally, their are celebrities that have appeared in several animated films (high ROI genre) such as Josh Gad and Kristin Wiig.
 
